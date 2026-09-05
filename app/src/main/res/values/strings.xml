@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Screen Recorder</string>
+    <string name="start_recording">Yozishni boshlash</string>
+    <string name="stop_recording">Yozishni to\'xtatish</string>
+    <string name="notification_channel_name">Ekran yozish</string>
+    <string name="notification_text">Ekran yozilmoqda...</string>
+</resources>
